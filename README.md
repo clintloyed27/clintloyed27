@@ -21,7 +21,7 @@ Then, copy and paste this entire code into the README.md file of that repository
 - 🌱 I’m currently learning **Advanced Web Development & AI**
 - 💬 Ask me about **Frontend, Backend, and UI/UX**
 - 📫 How to reach me: [clintloyed.05@gmail.com](mailto:clintloyed.05@gmail.com)
-- ⚡ Fun fact: **I love making things look animated and cool!**
+- ⚡ Fun fact: **I love learning about things that feel unreal!**
 
 ---
 
