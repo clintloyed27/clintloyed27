@@ -29,7 +29,6 @@ Then, copy and paste this entire code into the README.md file of that repository
 
 <div align="center">
   <p>Languages, Frameworks, and Tools I use:</p>
-  <!-- You can add or remove icons from the 'i=' parameter. Find more at https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,node,express,mongodb,firebase,git,github,vscode,figma,docker&perline=8" alt="Tech Stack" />
   </a>
@@ -40,23 +39,11 @@ Then, copy and paste this entire code into the README.md file of that repository
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clintloyed27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Clint's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clintloyed27&theme=tokyonight" alt="Clint's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clintloyed27&theme=tokyonight" alt="Clint's Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clintloyed27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintloyed27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Clint's Top Languages" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clintloyed27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
