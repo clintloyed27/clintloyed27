@@ -46,6 +46,14 @@ Then, copy and paste this entire code into the README.md file of that repository
 
 ---
 
+### 🎴 My Pokémon Stats
+
+<div align="center">
+  <img src="https://poke-stats.vercel.app/?user=clintloyed27" alt="clintloyed27's Pokémon Stats" />
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 
 <div align="center">
