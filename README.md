@@ -36,6 +36,16 @@ Then, copy and paste this entire code into the README.md file of that repository
 
 ---
 
+### 🏆 My GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=clintloyed27&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="clintloyed27's Trophies" />
+  </a>
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 
 <div align="center">
@@ -44,6 +54,14 @@ Then, copy and paste this entire code into the README.md file of that repository
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clintloyed27&theme=tokyonight" alt="Clint's Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clintloyed27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/clintloyed27/clintloyed27/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" />
 </div>
 
 ---
