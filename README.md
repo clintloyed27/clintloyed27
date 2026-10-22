@@ -46,10 +46,12 @@ Then, copy and paste this entire code into the README.md file of that repository
 
 ---
 
-### 🎴 My Pokémon Stats
+### 🎴 My Code Trainer Card
 
 <div align="center">
-  <img src="https://poke-stats.vercel.app/?user=clintloyed27" alt="clintloyed27's Pokémon Stats" />
+  <a href="https://codetrainer.pepinelli.dev">
+    <img src="https://codetrainer.pepinelli.dev/api/card/clintloyed27?role=Software%20Eng.&shine&auto-flip=15&float" alt="clintloyed27's Code Trainer Card" width="500">
+  </a>
 </div>
 
 ---
